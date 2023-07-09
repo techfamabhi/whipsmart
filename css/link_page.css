@@ -1,0 +1,106 @@
+#span1{
+    background-color:lightgrey;
+    color:black;
+    padding:3px;
+    border-radius: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+ 
+   
+}
+#span2{
+    float: right;
+}
+#linkcard{
+    margin-top: 33px;
+}
+#button1{
+    margin-top: 25px;
+}
+#div1{
+width: 70px;
+height: 32px;
+border: 1px solid grey;
+}
+#span3{
+font-size: 15px;
+}
+ul.a {
+list-style-position: outside;
+}
+
+
+
+#div2{
+border: 1px solid red;
+
+}
+#div3{
+padding-left: 115px;
+padding-right: 95px;
+margin-top: 15px;
+}
+
+#para1{
+background-color: orangered;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 20px;
+}
+#para3{
+text-align: center;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+#key_point{
+background-color: #E5E7E9;
+}
+
+.keypara{
+font-weight: 800;
+}
+.keyhr{
+height:1px;border-width:0;color:black;background-color:black
+}
+.relatedhr{
+width: 5%;background-color: grey;height: 1px;color: grey;
+}
+#licence_para{
+font-size: smaller;
+font-weight: bold;
+
+}
+
+
+#list_second_tab{
+    font-weight: 700;
+    font-size: 16px;
+}
+@media only screen and (max-width: 600px) {
+   #new_licence_card{
+       margin-left: -65px;
+   }
+   #licence_para{
+       margin-left: 100px;
+   }
+   #second_div_tab_section_one{
+       margin-left: -20px;
+      margin-top: 5px;
+      
+   }
+   #para3{
+    text-align: left;
+
+   }
+  #para3ul li{
+ margin-left: -38px;
+ }
+ #para3img{
+     margin-left: -35px;
+ }
+ #para3ul_para{
+     margin-left: -38px;
+ }
+  
+  }
